@@ -18,7 +18,7 @@ Este projeto é uma aplicação de console em .NET desenvolvida para gerenciar o
 | Categoria | Detalhes |
 |---|---|
 | **Linguagem** | C# |
-| **IDE Preferencial** | 
+| **IDE Preferencial** | Visual Studio |
 | **Encapsulamento** | Propriedades `{ get; }` e modificadores `private` |
 | **Segurança de Referência** | Inicialização rigorosa de listas nos construtores |
 | **Engenharia de Software** | Travas contra recursão infinita em associações bidirecionais |
